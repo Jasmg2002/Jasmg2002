@@ -1,6 +1,6 @@
 ### Oi, Eu sou João Alexandre💡.
 </br>
-Contato
+### Contato
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Jo%C3%A3o-Asm-Gama/100070120101712/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaoasmg/)
