@@ -1,11 +1,11 @@
-### Oi, Eu sou João Alexandre, curto bastante o ecossistema Front-End💡, mas também busco conhecimento no Back-End e de UX/UI Design🤟.
+### Oi, Eu sou João Alexandre💡.
 </br>
-Meu Contato
+Contato
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Jo%C3%A3o-Asm-Gama/100070120101712/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaoasmg/)
 
-### Tecnologias que estou me aperfeiçoando📚 
+### Tecnologias📚 
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
