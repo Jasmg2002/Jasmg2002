@@ -1,4 +1,3 @@
-### Oi, Eu sou João Alexandre💡.
 </br>
 
 ### Contato
